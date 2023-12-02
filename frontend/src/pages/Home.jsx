@@ -44,10 +44,10 @@ const Home = () => {
             <tr>
             <th className="border border-slate-600 rounded-md">No</th>
               <th className="border border-slate-600 rounded-md">Name</th>
-              <th className="border border-slate-600 rounded-md">Age</th>
-              <th className="border border-slate-600 rounded-md">Contact</th>
+              <th className="border border-slate-600 rounded-md:hidden">Age</th>
+              <th className="border border-slate-600 rounded-md:hidden">Contact</th>
               <th className="border border-slate-600 rounded-md">Gender</th>
-              <th className="border border-slate-600 rounded-md">Organ</th>
+              <th className="border border-slate-600 rounded-md:hidden">Organ</th>
               <th className="border border-slate-600 rounded-md">Hospital</th>
               <th className="border border-slate-600 rounded-md">
                 Blood_group

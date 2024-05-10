@@ -1,6 +1,6 @@
 #MediTrack_MERN
 
-This is an authentication application that stores medical records of patients and can be viewed by the doctor.
+This application stores medical records of donor patients and can be viewed by the doctor.
 
 We have 2 main folders - 1. frontend  2. backend
 
@@ -8,7 +8,7 @@ Libraries install:
 
 Make sure you have Nodejs and MongoDB [compass or atlas] installed from their respective websites
 
-Backend [while dowloading make sure you're in the backend directory]:
+Backend [while downloading make sure you're in the backend directory]:
   npm i express nodemon
   npm i mongoose
   npm i cors
